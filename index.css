@@ -1,0 +1,73 @@
+@media screen and (min-width:1023px){
+    .section01{
+        height: 700px;
+    }
+    
+    .section02{
+        height: 650px;
+    }
+
+    .section3{
+        height: 650px;
+    }
+
+    .section04{
+        height: 650px;
+    }
+
+    .section5{
+        height: 650px;
+    }
+
+    .section06{
+        height: 650px;
+    }
+    
+    .hero-1-img{
+        background-image: url("/images/hero/hero-img.jpg");
+        background-size: cover;
+        height: 100%;
+        background-position: center;
+    }  
+
+    .hero-banner-2{
+        height: 700px;
+        display: block;
+    }
+
+    .hero-2-img{
+        background-image: url("/images/hero/hero-img-2.jpg");
+        background-size: cover;
+        height: 100%;
+        background-position: center;
+    }
+
+    .hero-3-img{
+        background-image: url("/images/hero/hero-img-3.jpg");
+        background-size: cover;
+        height: 100%;
+        background-position: center;
+    }
+
+    .hero-4-img{
+        background-image: url("/images/hero/hero-img-4.jpg");
+        background-size: cover;
+        height: 100%;
+        background-position: center;
+    }
+
+    .hero-5-img{
+        background-image: url("/images/hero/hero-img-5.jpg");
+        background-size: cover;
+        height: 100%;
+        background-position: center;
+    }
+
+    .hero-6-img{
+        background-image: url("/images/hero/hero-img-6.jpg");
+        background-size: cover;
+        height: 100%;
+        background-position: center;
+    }
+}
+
